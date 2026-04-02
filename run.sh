@@ -1,1 +1,0 @@
-echo "Pozdrav iz bash"
